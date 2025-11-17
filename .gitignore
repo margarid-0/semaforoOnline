@@ -1,0 +1,84 @@
+# ===== OPERATING SYSTEM FILES =====
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ===== PREREQUISITES =====
+*.d
+
+# ===== DATABASE FILES =====
+*.csv
+*.tsv
+*.xls
+*.xlsx
+
+# ===== COMPILED OBJECT FILES =====
+*.slo
+*.lo
+*.o
+*.obj
+
+# ===== PRECOMPILED HEADERS =====
+*.gch
+*.pch
+
+# ===== COMPILED DYNAMIC LIBRARIES =====
+*.so
+*.dylib
+*.dll
+
+# ===== FORTRAN MODULE FILES =====
+*.mod
+*.smod
+
+# ===== COMPILED STATIC LIBRARIES =====
+*.lai
+*.la
+*.a
+*.lib
+
+# ===== EXECUTABLES =====
+*.exe
+*.out
+*.app
+
+# ===== LOGS & TEMP FILES =====
+*.log
+*.tmp
+*.swp
+*.bak
+
+# ===== NODE / JAVASCRIPT =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ===== PYTHON =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# ===== EDITORS & IDEs =====
+# VSCode
+.vscode/
+.history/
+
+# JetBrains (IntelliJ, PyCharm, CLion, etc.)
+.idea/
+
+# ========== END ==========
