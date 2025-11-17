@@ -299,19 +299,6 @@ Este projeto demonstra diversos conceitos fundamentais de cidades inteligentes:
 
 ---
 
-## Possíveis Expansões do Projeto
-
-1. **Contagem de Veículos**: Implementar contador de passagens baseado em variações do LDR
-2. **Controle Manual**: Adicionar botões na interface web para controle remoto
-3. **Histórico de Dados**: Armazenar logs de operação em banco de dados
-4. **Múltiplos Semáforos**: Expandir para controlar 4 ou mais semáforos em cruzamentos complexos
-5. **Priorização de Emergência**: Adicionar modo especial para passagem de ambulâncias
-6. **Integração com Sensores Adicionais**: Ultrassônico para detecção de pedestres, sensor de chuva, etc.
-7. **Dashboard Analítico**: Criar painel com estatísticas de tráfego e padrões de uso
-8. **Machine Learning**: Implementar aprendizado de máquina para otimizar tempos de sinal
-
----
-
 ## Conclusão
 
 Este projeto demonstra a aplicação prática de conceitos de IoT e Smart Cities através de um sistema de semáforos inteligentes. A integração de sensores, comunicação sem fio, processamento embarcado e interface web ilustra como tecnologias modernas podem ser aplicadas para melhorar a infraestrutura urbana.
